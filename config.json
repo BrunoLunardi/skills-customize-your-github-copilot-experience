@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Construindo APIs REST com framework FastAPI",
+      "description": "Aprender a criar APIs REST utilizando o framework FastAPI, cobrindo conceitos como rotas, métodos HTTP, e validação de dados.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2025-11-28"
     }
   ]
 }
